@@ -29,7 +29,7 @@ R folder: Getting started with R and some useful code (to be added later)
   
 ### ... So what exactly are Git and GitHub?
 
-**[Git](git-scm.com)** is a free and open source version control system. Version control lets you track changes and go back to previous versions of files. You can recover your code after making a mistake and go back to a known good state. Now what about **[GitHub?](github.com)**
+**[Git](https://git-scm.com)** is a free and open source version control system. Version control lets you track changes and go back to previous versions of files. You can recover your code after making a mistake and go back to a known good state. Now what about **[GitHub?](github.com)**
 
 ### Learning the basic lingo
 
