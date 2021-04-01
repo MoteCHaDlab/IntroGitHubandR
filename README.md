@@ -57,11 +57,33 @@ When you *fork* you are creating an entirely new repository by duplicating the r
 ### Basic workflow with GitHub
 
 1. Navigate to the repository you want to work on in github desktop
-2. **Fetch origin**: check to see if any changes were made by others and committed to the remote repository -- Kind of like a refresh button
+2. **Fetch origin**: check to see if any changes were made by others and committed to the remote repository. Kind of like a refresh button.
 3. **Pull origin**: This updates your local repository to be the same version as the remote repository. So if a collaborator made changes, your code and files will now be updated with the new commits. 
-4. 
+4. Write your own code or make changes to existing code in the repository. Save the file.
+5. Go back into github desktop and you will see that it shows that you made changes and also shows what changes you made. 
+6. Write a **commit message** in the space provided (bar with "Update README.md" next to an icon of your github profile picture, below the list of changed files on the left). This can be as short or as informative as you want.
+7. Click **Commit to main**
+8. **Push origin**: Updates the remote repository with you local changes.
+
+#### How to resolve merge errors/conflicts
+
+Ok, so here is where google and a bit of luck are your two best friends. Explaining how to resolve errors is a bit above  my experience level. 
+
+A helpful youtube video on the subject: https://www.youtube.com/watch?v=-Q-WIOH1XSA.
+
+If two people are editing the same file at the same time (in the same location(s)), then you will run into conflicts when one person commits after the other. The problem occurs when the 2nd person tries to merge into the master. Git will insert some pointers to where the merge conflicts are in the file. YOU have to go in and edit the file... remove the indicators, edit it to the appropriate changes, and then re-commit and merge. 
 
 ## CHaD Lab Organization GitHub Rules and Best Practices
 
-
+1. Communicate often and well with your repository collaborators.
+2. In the main README.md for a repository:
+  * At the top, lit the names and contact info for the main person responsible for the repository
+  * Include an outline/organization scheme for what the repository contains and where to find it. Consider listing out file names and what they are here as well.
+  * Keep a change log that you update every time you make major changes
+3. **Fetch, Pull, Save your work, and Push often!**
+4. If you are not working on the project specific to a repository, do not branch it. However, you may fork it in order to learn from and use the code. Admins for the repository should manage access of members in order to avoid issues.
+5. Keep a repository private unless it is in its final publication form UNLESS all collaborators agree to make it public. 
+6. Be respectful of others' data. If you have sensitive data, consider using the .gitignore file to exclude the file or not putting the repository in the shared lab organization. 
+7. Comment your code. It doesn't have to be perfect or a novel, and you can go back and edit later, but someone should be able to look at your code and have a *good enough* idea of what you are doing.
+8. The first chunk of every Rnotebook should contain the R packages used in the code. 
 
