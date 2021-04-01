@@ -82,7 +82,7 @@ If two people are editing the same file at the same time (in the same location(s
 1. Communicate often and well with your repository collaborators.
 2. In the main README.md for a repository:
 
-    * At the top, lit the names and contact info for the main person responsible for the repository
+    * At the top, list the names and contact info for the main person responsible for the repository
     * Include an outline/organization scheme for what the repository contains and where to find it. Consider listing out file names and what they are here as well.
     * Keep a change log that you update every time you make major changes
 3. **Fetch, Pull, Save your work, and Push often!**
