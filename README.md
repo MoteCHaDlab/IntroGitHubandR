@@ -1,8 +1,12 @@
-# IntroGitHubandR
+# Introduction to GitHub and R
  
+## Repository Description
+
  Repository with information and resources for getting started using GitHub and R, along with the best practices for working in the MoteCHaDLab GitHub organization. 
  
  Disclaimer: I (Sara) am fairly new to collaborating on code using GitHub. This will be messy and we will learn together. Google is your (our) best friend.
+ 
+ Responsible member(s): Sara Williams, swilliams@mote.org
 
 ## Repository Organization
 
@@ -80,7 +84,7 @@ If two people are editing the same file at the same time (in the same location(s
 
     * At the top, lit the names and contact info for the main person responsible for the repository
     * Include an outline/organization scheme for what the repository contains and where to find it. Consider listing out file names and what they are here as well.
-  * Keep a change log that you update every time you make major changes
+    * Keep a change log that you update every time you make major changes
 3. **Fetch, Pull, Save your work, and Push often!**
 4. If you are not working on the project specific to a repository, do not branch it. However, you may fork it in order to learn from and use the code. Admins for the repository should manage access of members in order to avoid issues.
 5. Keep a repository private unless it is in its final publication form UNLESS all collaborators agree to make it public. 
