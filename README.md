@@ -1,7 +1,8 @@
 # IntroGitHubandR
  
- Getting Started with GitHub and R
-
+ Repository with information and resources for getting started using GitHub and R, along with the best practices for working in the MoteCHaDLab GitHub organization. 
+ 
+ Disclaimer: I (Sara) am fairly new to collaborating on code using GitHub. This will be messy and we will learn together. Google is your (our) best friend.
 
 ## Outline
 
@@ -16,6 +17,7 @@ R folder: Getting started with R and some useful code (to be added later)
 1. Make a GitHub account if you don't have one already. https://github.com/
 
 2. Send me (swilliams@mote.org) your account name
+  a. If you still have a student email, you can get github pro for free: https://education.github.com/discount_requests/student_application
 
 3. Download and install GitHub Desktop https://desktop.github.com/
 
@@ -24,7 +26,26 @@ R folder: Getting started with R and some useful code (to be added later)
   b. on a windows pc, open up the command prompt
   c. type 'git version' and enter, it should return your version if you have git.
   d. if you don't have git, https://github.com/git-guides/install-git 
+  
+### ... So what exactly are Git and GitHub?
 
-### If you still have a student email...
 
-Free Student stuff https://education.github.com/discount_requests/student_application
+
+### Learning the basic lingo
+
+* Repository: 
+* Commit
+* Main
+* Branch: version of the repository that diverges from the main working project
+* Clone: make a copy of the target repository
+* Fetch: gets the most updated version of a repository from the remote source
+* Master:
+
+### Basic workflow with GitHub
+
+### Some useful links
+
+## CHaD Lab Organization GitHub Rules and Best Practices
+
+
+
