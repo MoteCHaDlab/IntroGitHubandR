@@ -92,3 +92,6 @@ If two people are editing the same file at the same time (in the same location(s
 7. Comment your code. It doesn't have to be perfect or a novel, and you can go back and edit later, but someone should be able to look at your code and have a *good enough* idea of what you are doing.
 8. The first chunk of every Rnotebook should contain the R packages used in the code. 
 
+## Updates log
+
+* 04/01/2021: Sara created this repository and learned a whole lot more about github doing so.
