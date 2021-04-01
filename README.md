@@ -56,10 +56,10 @@ When you *fork* you are creating an entirely new repository by duplicating the r
 
 ### Basic workflow with GitHub
 
-### Some useful links
-
-* [Kinsta: What is GitHub?](https://kinsta.com/knowledgebase/what-is-github/)
-
+1. Navigate to the repository you want to work on in github desktop
+2. **Fetch origin**: check to see if any changes were made by others and committed to the remote repository -- Kind of like a refresh button
+3. **Pull origin**: This updates your local repository to be the same version as the remote repository. So if a collaborator made changes, your code and files will now be updated with the new commits. 
+4. 
 
 ## CHaD Lab Organization GitHub Rules and Best Practices
 
