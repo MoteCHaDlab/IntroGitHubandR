@@ -65,6 +65,8 @@ https://allisonhorst.github.io/palmerpenguins/articles/intro.html
 
 Install the package: 
 
+```{r}
 install.packages("palmerpenguins")
+```
 
 
