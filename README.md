@@ -99,3 +99,4 @@ If two people are editing the same file at the same time (in the same location(s
 
 * 04/01/2021: Sara created this repository and learned a whole lot more about github doing so.
 * 04/02/2021: Sara made a small change to readme and made repository public so that lab members not yet in the organization can see the files and learn how to be added to the lab's GitHub organization.
+* 04/02/01 : test 
