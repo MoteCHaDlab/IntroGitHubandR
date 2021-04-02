@@ -1,6 +1,6 @@
 # Introduction to GitHub and R
 
- For use by Mote's Coral Health and Disease lab members. 
+ For use by Mote's Coral Health and Disease lab members, but available to anyone who might find this helpful.
  
 ## Repository Description
 
@@ -8,11 +8,15 @@
  
  Disclaimer: I (Sara) am fairly new to collaborating on code using GitHub. This will be messy and we will learn together. Google is your (our) best friend.
  
+ A recording of the 04/02/2021 zoom going over github and R notebooks available at: https://drive.google.com/drive/folders/18WcAHUv2NZGX4XwvCqsxqsncVNprWBOd?usp=sharing 
+ 
  Responsible member(s): Sara Williams, swilliams@mote.org
 
 ## Repository Organization
 
 Below: Getting started with GitHub information and links
+
+PracticeRnotebookandGitPush.RMD (and .html): R notebook example from zoom recording.
 
 R folder: Getting started with R and some useful code (to be added later)
 
@@ -99,4 +103,4 @@ If two people are editing the same file at the same time (in the same location(s
 
 * 04/01/2021: Sara created this repository and learned a whole lot more about github doing so.
 * 04/02/2021: Sara made a small change to readme and made repository public so that lab members not yet in the organization can see the files and learn how to be added to the lab's GitHub organization.
-* 04/02/01 : test 
+* 04/02/2021 : test example (and Sara time traveled to 2001 to change the year back to 2021)
