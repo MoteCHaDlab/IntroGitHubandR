@@ -1,0 +1,32 @@
+---
+title: "Practice Rnotebook"
+output: html_notebook
+---
+
+This is where we can type things
+
+
+#### Packages used in this notebook
+```{r}
+library(vegan)
+```
+
+
+
+## This is Section 1, define X
+
+```{r}
+x<-3
+x
+```
+## This is section 2, lets plot something
+
+This code chunk plots y as a funciton of x. 
+
+```{r,fig.with=2,fig.height=3}
+x<-c(2,4,6,8)
+y<-c(1,2,3,4)
+
+plot(x,y) #plot function
+```
+
