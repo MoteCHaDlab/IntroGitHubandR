@@ -26,17 +26,21 @@ R folder: Getting started with R and some useful code (to be added later)
 
 1. Make a GitHub account if you don't have one already. https://github.com/
 
-  a. If you still have a student email, you can get github pro for free: https://education.github.com/discount_requests/student_application
+    a. If you still have a student email, you can get github pro for free: https://education.github.com/discount_requests/student_application
 
 2. Send me (swilliams@mote.org) your account name so that I can add you to the lab's GitHub Organization (MoteCHaDlab)
   
 3. Download and install GitHub Desktop https://desktop.github.com/
 
 4. Check to make sure you have git on your computer
-  a. on a mac, open up the terminal
-  b. on a windows pc, open up the command prompt
-  c. type 'git version' and enter, it should return your version if you have git.
-  d. if you don't have git, https://github.com/git-guides/install-git 
+
+    a. on a mac, open up the terminal
+  
+    b. on a windows pc, open up the command prompt
+  
+    c. type 'git version' and enter, it should return your version if you have git.
+  
+    d. if you don't have git, https://github.com/git-guides/install-git 
   
 ### ... So what exactly are Git and GitHub?
 
