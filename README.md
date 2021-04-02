@@ -1,4 +1,6 @@
 # Introduction to GitHub and R
+
+ For use by Mote's COral Health and Disease lab members. 
  
 ## Repository Description
 
@@ -19,10 +21,10 @@ R folder: Getting started with R and some useful code (to be added later)
 ### First Steps
 
 1. Make a GitHub account if you don't have one already. https://github.com/
-
-2. Send me (swilliams@mote.org) your account name
   a. If you still have a student email, you can get github pro for free: https://education.github.com/discount_requests/student_application
 
+2. Send me (swilliams@mote.org) your account name so that I can add you to the lab's GitHub Organization (MoteCHaDlab)
+  
 3. Download and install GitHub Desktop https://desktop.github.com/
 
 4. Check to make sure you have git on your computer
@@ -95,3 +97,4 @@ If two people are editing the same file at the same time (in the same location(s
 ## Updates log
 
 * 04/01/2021: Sara created this repository and learned a whole lot more about github doing so.
+* 04/02/2021: Sara made a small change to readme and made repository public so that lab members not yet in the organization can see the files and learn how to be added to the lab's GitHub organization.
